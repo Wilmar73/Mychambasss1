@@ -1,4 +1,5 @@
-﻿//1.Declarar variable de los diferentes tipos, asignarles valor e imprimir el valor. /
+﻿
+//1.Declarar variable de los diferentes tipos, asignarles valor e imprimir el valor. /
 decimal precio = 19.99m;    
 int cantidad = 5;
 float descuento = 0.15f;    
@@ -11,6 +12,7 @@ Console.WriteLine("Valor de la cantidad: " + cantidad);
 Console.WriteLine("Valor del descuento: " + descuento);
 Console.WriteLine("Valor del producto: " + producto);
 Console.WriteLine("¿Está disponible? " + estaDisponible);
+
 
 //2.Buscar cómo se declara una constante en C# e imprimir el valor. Probar de cambiar su valor luego y ver que es lo que pasa.
   // const double PI = 3.14159; // Declaración de una constante  
