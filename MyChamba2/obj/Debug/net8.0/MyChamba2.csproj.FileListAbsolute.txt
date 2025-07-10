@@ -1,0 +1,14 @@
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\bin\Debug\net8.0\MyChamba2.exe
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\bin\Debug\net8.0\MyChamba2.deps.json
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\bin\Debug\net8.0\MyChamba2.runtimeconfig.json
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\bin\Debug\net8.0\MyChamba2.dll
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\bin\Debug\net8.0\MyChamba2.pdb
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.AssemblyInfoInputs.cache
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.AssemblyInfo.cs
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.csproj.CoreCompileInputs.cache
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.dll
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\refint\MyChamba2.dll
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.pdb
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\MyChamba2.genruntimeconfig.cache
+C:\Users\JWED\source\repos\Mychambasss1\MyChamba2\obj\Debug\net8.0\ref\MyChamba2.dll
