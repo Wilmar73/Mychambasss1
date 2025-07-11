@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\C#\\MyChamba2\\MyChamba2.csproj",
+      "projectUniqueName": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\MyChamba2.csproj",
       "projectName": "MyChamba2",
-      "projectPath": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\C#\\MyChamba2\\MyChamba2.csproj",
+      "projectPath": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\MyChamba2.csproj",
       "packagesPath": "C:\\Users\\JWED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\C#\\MyChamba2\\obj\\",
+      "outputPath": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

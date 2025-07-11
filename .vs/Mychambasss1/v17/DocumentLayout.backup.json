@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JWED\\source\\repos\\Mychambasss1\\Mychambas1ro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mychambas1ro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A75E9E3-6967-40B6-8C10-65A4729797E5}|Mychambas1ro\\Mychambas1ro.csproj|c:\\users\\jwed\\source\\repos\\mychambasss1\\mychambas1ro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A75E9E3-6967-40B6-8C10-65A4729797E5}|Mychambas1ro\\Mychambas1ro.csproj|solutionrelative:mychambas1ro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA449F8-2888-44DA-95EB-076C46D80278}|MyChamba2\\MyChamba2.csproj|c:\\users\\jwed\\source\\repos\\mychambasss1\\mychamba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA449F8-2888-44DA-95EB-076C46D80278}|MyChamba2\\MyChamba2.csproj|solutionrelative:mychamba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JWED\\Downloads\\ContactesClassV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyChamba2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +21,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\Mychambas1ro\\Program.cs",
+              "RelativeDocumentMoniker": "Mychambas1ro\\Program.cs",
+              "ToolTip": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\Mychambas1ro\\Program.cs",
+              "RelativeToolTip": "Mychambas1ro\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:33:19.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\Program.cs",
+              "RelativeDocumentMoniker": "MyChamba2\\Program.cs",
+              "ToolTip": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\Program.cs",
+              "RelativeToolTip": "MyChamba2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:44:30.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -33,38 +65,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ContactesClassV1.cs",
               "DocumentMoniker": "C:\\Users\\JWED\\Downloads\\ContactesClassV1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ContactesClassV1.cs",
               "ToolTip": "C:\\Users\\JWED\\Downloads\\ContactesClassV1.cs",
               "RelativeToolTip": "..\\..\\..\\Downloads\\ContactesClassV1.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T22:33:36.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\Program.cs",
-              "RelativeDocumentMoniker": "MyChamba2\\Program.cs",
-              "ToolTip": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\MyChamba2\\Program.cs",
-              "RelativeToolTip": "MyChamba2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T21:44:30.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\Mychambas1ro\\Program.cs",
-              "RelativeDocumentMoniker": "Mychambas1ro\\Program.cs",
-              "ToolTip": "C:\\Users\\JWED\\source\\repos\\Mychambasss1\\Mychambas1ro\\Program.cs",
-              "RelativeToolTip": "Mychambas1ro\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T22:33:19.98Z"
+              "WhenOpened": "2025-07-07T22:33:36.693Z",
+              "EditorCaption": ""
             }
           ]
         }

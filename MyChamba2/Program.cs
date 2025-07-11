@@ -26,3 +26,5 @@ Console.WriteLine("Fecha y hora actual: " + DateTime.Now.ToString("dd/MM/yyyy HH
 Console.WriteLine("¡Gracias por usar el programa! Hasta luego.");
 // Fin del programa
 // Este programa solicita un número al usuario y determina si es par o impar.
+// También imprime la fecha y hora actual al final.
+
