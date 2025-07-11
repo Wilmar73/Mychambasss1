@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyChamba2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+382d1b6edd60f779c7f53efbf53b02c68c992a91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e6912d2e760bc18def1641636a86bf0fda4de9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyChamba2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyChamba2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
